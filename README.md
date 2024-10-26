@@ -1,0 +1,1 @@
+All the code I wrote for my unfinished PlayStation Talents Portugal VII finalist game, "Stolen Lands," was part of a school project that I completed in under a year. Before embarking on this project, I had no coding experience, but after finishing the GameDev.tv 2D and 3D Complete Unity Courses, I gained the skills needed to pursue game development
